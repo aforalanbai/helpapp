@@ -1,0 +1,233 @@
+body {
+  cursor: url('http://ionicframework.com/img/finger.png'), auto;
+}
+.header-bar-design
+{
+    background: #00aab3 !important;
+    border: none !important;
+}
+.header-bar-design h1
+{
+    color: #ffffff !important;
+    text-transform: uppercase;
+}
+ .text-center
+ {
+     text-align: center !important;
+ }
+.item-radio
+{
+    background: none !important; border: none; color: #ffffff;
+}
+.item-content
+{
+    background: none !important;
+    padding-bottom: 8px !important;
+    padding-top: 8px !important;
+    text-align: center;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.item-radio input:checked ~ .item-content
+{
+    border-top: 2px solid #FCFDFC !important;
+    border-bottom: 2px solid #FCFDFC !important;
+}
+
+.padding-0
+{
+    padding: 0px;
+}
+.width-100
+{
+    width:100%;
+}
+.padding-top-0
+{
+    padding-top:0;
+}
+.padding-bottom-0
+{
+    padding-bottom:0px;
+}
+.padding-top-6
+{
+    padding-top: 6px;
+}
+.padding-top-10
+{
+    padding-top: 10px;
+}
+.padding-botom-20
+{
+    padding-bottom: 20px;
+}
+.padding-left-20
+{
+    padding-left: 20px;
+}
+.padding-right-20
+{
+    padding-right: 20px;
+}
+.padding-left-10
+{
+    padding-left: 10px;
+}
+.padding-right-10
+{
+    padding-right: 10px;
+}
+.padding-top-35
+{
+    padding-top: 35px;
+}
+.black-word-color
+{
+    color:#000000;
+}
+.float-right
+{
+    float: right;
+}
+.float-left
+{
+    float:left;
+}
+.width-30
+{
+    width: 30%;
+}
+
+.width-33
+{
+    width: 33%;
+}
+.margin-10
+{
+    margin: 10%;
+}
+.margin-7
+{
+    margin: 7%;
+
+}
+.margin-top-0
+{
+    margin-top:0px;
+}
+.ion-content
+{
+    background:#00aab3;
+    background: url('../img/background.jpg'); background-size: 100% 100%;
+}
+.ion-content .ion-item
+{
+    background: none;
+    border:1px solid rgba(0,0,0,0.1);
+    color: #ffffff;
+    text-transform: uppercase;
+}
+.buttonlinks
+{
+    padding-top: 7vh;
+    padding-bottom: 7vh;
+}
+.buttonlinks button
+{
+    border-radius: 20px; color: rgb(45, 178, 182) !important;
+    text-transform: uppercase; font-weight: 600;
+    margin-bottom: 15px !important;
+    text-align: left;
+}
+.buttonlinks2
+{
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+}
+.buttonlinks2 button
+{
+    border-radius: 20px; color: rgb(45, 178, 182) !important;
+    text-transform: uppercase; font-weight: 600;
+    margin-bottom: 15px !important;
+    text-align: left;
+}
+.buttonlinks2 img
+{
+    height: 27px;position: relative;top: 7px;width: 31px;
+}
+.paraheading
+{
+    color:#353d3e;
+}
+.buttons button
+{
+    color:#00aab3 !important;
+}
+.title
+{
+    color:#00aab3 !important;
+}
+.paragraph
+{
+    color: #ffffff;
+}
+#color1
+{
+color: #64AF60 !important;
+}
+#color2
+{
+    color: #EB1A3C !important;
+}
+#color3
+{
+    color: #7E409F !important;
+}
+#color4
+{
+    color: #59585B !important;
+}
+#color5
+{
+    color: #F10974 !important;
+}
+.footer_img
+{
+    width: 34px;height: 31px;
+}
+.f_t1
+{
+    color:#00aab3; font-size: 14px;
+}
+
+.f_t2
+{
+    position:relative;left:-85px; font-size: 12px; top:-3px;
+}
+.para_list li
+{
+    list-style-type: disc; color: white;
+}
+.bottomtext
+{
+    margin-top:0px !important; margin-left:0px !important; margin-right:0px !important;
+    border-radius: 30px !important; border:2px solid #00aab3 !important;
+}
+.maincolor
+{
+    color:#00aab3 !important;
+}
+.white
+{
+    background: #ffffff !important;
+}
+
+.white img
+{
+    width:32px; height:30px;
+}
+.white p
+{
+    color: rgba(0,0,0,0.8);
+}
